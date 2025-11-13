@@ -1,4 +1,0 @@
-node_modules/
-*.json
-index.html
-!dist/index.html
